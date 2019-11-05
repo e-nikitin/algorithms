@@ -5,7 +5,7 @@ import "fmt"
 func main() {
   a := [...]int{9,1,8,3,7,3,6,4,5,2,0}
   
-	fmt.Println(a)
+  fmt.Println(a)
   
   for {
 		b := true
