@@ -11,7 +11,7 @@ func reverse(s string) string{
 }
 
 func main() {
-	s:= "Hello world! 你好，世界"
+	s:= "Hello, world! 你好，世界"
 	fmt.Println(s)
 	fmt.Println(reverse(s))
 }
